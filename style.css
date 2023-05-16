@@ -1,0 +1,19 @@
+.container{
+    padding: 40px;
+}
+.container1{
+    padding: 10vh;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    background-color: rgba(229, 231, 229, 0.295);
+}
+ footer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
